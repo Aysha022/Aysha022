@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aysha Naurin</h1>
-<h3 align="center">An aspiring cute technophile.</h3>
+<h3 align="center">An aspiring technophile.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aysha022&label=Profile%20views&color=0e75b6&style=flat" alt="aysha022" /> </p>
 
