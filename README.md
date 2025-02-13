@@ -13,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  Email : ayshanaurin22gmail.com
+  Email : ayshanaurin22gmail.com <br>
   LinkedIn : http://linkedin.com/in/aysha-naurin-b56190258   
 </p>
 
